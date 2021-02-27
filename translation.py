@@ -1,13 +1,13 @@
 class Translation(object):
-    START_TEXT = """ÓáÇã¡
-Çíä í˜ ÑÈÇÊ ÂáæÏ áíä˜ ÊáÑÇã ÇÓÊ!
+    START_TEXT = """Hello,
+This is a Telegram URL Upload Bot!
 
-<b>áØİÇğ ÈÑÇí ãä áíä˜ ãÓÊŞíã ÏÇäáæÏ ãÓÊŞíã ÑÇ ÇÑÓÇá ˜äíÏ ¡ ãä ãí ÊæÇäã Èå ÚäæÇä İÇíá/æíÏíæ ÏÑ ÊáÑÇã ÈÇÑĞÇÑí ˜äã</b>
+<b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
 
-ÈÑÇí  /help ÈÒäíÏ ÑÇåäãÇíí ˜äíÏ ..
+/help for more details..
 
-ÔÊíÈÇäí : @amirwolf512
-Â© @amirwolf512bot"""
+Support Group : @InFoTelGroup
+Â© @SpEcHlDe , @TGBotsZ & @CWProjects"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>ğŸ‘‰ Create own Clone Bot.. </b>  /help for Details"
